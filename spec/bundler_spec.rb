@@ -10,7 +10,7 @@ describe "Bundler" do
 
   describe "Gemfile" do
     before :all do
-      @gemfile_text = File.read('GemFIIIIile')
+      @gemfile_text = File.read('Gemfile')
     end
 
     it "has correct syntax" do
