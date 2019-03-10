@@ -8,7 +8,7 @@ describe "Bundler" do
     end
   end
 
-  describe "Gemfi!!le" do
+  describe "GeminiEcho" do
     before :all do
       @gemfile_text = File.read('Gemfile')
     end
